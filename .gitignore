@@ -103,6 +103,8 @@ celerybeat.pid
 
 # Environments
 api_keys.py
+api_keys
+config.py
 .env
 .venv
 env/
